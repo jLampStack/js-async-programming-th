@@ -1,6 +1,3 @@
-https://jlampstack.github.io/js-async-programming-th.git
-
-
 # RESOURCES
 
 https://teamtreehouse.com/library/asynchronous-programming-with-javascript
