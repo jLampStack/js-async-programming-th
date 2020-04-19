@@ -1,6 +1,10 @@
 # VIEW PROJECT
 
-## https://jlampstack.github.io/js-async-programming-th.git
+## https://jlampstack.github.io/js-async-programming-th/
+
+# README
+
+https://github.com/jLampStack/js-async-programming-th/blob/master/README.md
 
 # RESOURCES
 
